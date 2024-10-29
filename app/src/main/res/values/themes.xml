@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AgriKranti" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item> <!-- Use this if your status bar color is light -->
+    </style>
+
+</resources>

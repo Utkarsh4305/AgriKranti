@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301838303293",
+    "project_id": "agrikranti-f4bad",
+    "storage_bucket": "agrikranti-f4bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301838303293:android:ad1766d0b29bf12c442a54",
+        "android_client_info": {
+          "package_name": "com.example.agrikranti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQAeotiy9M4ffYXKh7UMV5GURLycV1-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
